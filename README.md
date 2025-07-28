@@ -25,6 +25,3 @@
 🔌 IoT & Hardware: Arduino, ESP32, Sensors  
 🛢️ Databases: Firebase, MongoDB  
 🚀 Tools: Git, Vite, VS Code, Figma
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
