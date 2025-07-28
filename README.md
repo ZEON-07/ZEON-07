@@ -9,9 +9,7 @@
 
 ### 💫 About Me:
 - 🔭 I’m currently working on: **Full-stack web projects + IoT integrations**
-- 🌱 I’m learning: **TypeScript, GSAP animations, and microcontroller protocols**
 - 👯 I’m looking to collaborate on: **Open-source tools, Hackathons, FOSS**
-- 📫 How to reach me: [your email] • [LinkedIn](https://linkedin.com/in/yourprofile)
 - ⚡ Fun fact: I turn caffeine into code ☕🚀
 
 ---
