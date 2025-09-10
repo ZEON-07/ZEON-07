@@ -16,7 +16,7 @@
 ```bash
 💻 Languages: C/C++, JavaScript, TypeScript, Python  
 🌐 Frontend: React, TailwindCSS, GSAP, HTML5, CSS3  
-🖥️ Backend: Node.js, Express  
+🖥️ Backend: Node.js  
 🔌 IoT & Hardware: Arduino, ESP32, Sensors  
 🛢️ Databases: Firebase, MongoDB  
 🚀 Tools: Git, Vite, VS Code, Figma
