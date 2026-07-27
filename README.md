@@ -49,20 +49,6 @@
 
 ---
 
-## Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZEON-07&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZEON-07/ZEON-07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
----
-
-<div align="center">
-
 > *Code. Build. Learn. Repeat.*
 
 </div>
