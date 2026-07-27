@@ -2,7 +2,7 @@
 <h3 align="center">Developer • Open Source Contributor • Video Editor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Open+Source+Contributor;IoT+%26+Embedded+Systems+Enthusiast;Building+Things+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Open+Source+Contributor;Building+Things+That+Matter;Video+Editor" alt="Typing SVG" />
 </p>
 
 ---
@@ -44,8 +44,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZEON-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEON-07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
