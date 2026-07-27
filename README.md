@@ -11,15 +11,16 @@
 
 - Computer Engineering (AI & ML) Student
 - Passionate about Full-Stack Web Development
+- Interested in building scalable web applications
 - Open to Open Source collaborations and Hackathons
-- Building software and hardware solutions
+- Building software that solves real-world problems
 
 ---
 
 ## Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python" />
 </p>
 
 ## Frontend
@@ -40,24 +41,28 @@
   <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
+## Tools
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZEON-07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEON-07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
+
 ---
 
-## Contribution Graph
+## Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZEON-07/ZEON-07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZEON-07&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZEON-07/ZEON-07/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 ---
 
 <div align="center">
 
-*"Code. Build. Learn. Repeat."*
+> *Code. Build. Learn. Repeat.*
 
 </div>
