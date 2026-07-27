@@ -46,9 +46,12 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
+## Creative Tools
 
----
-
+<p>
+  <img src="https://skillicons.dev/icons?i=ae,ps,pr" />
+  <img src="https://cdn.simpleicons.org/davinciresolve/233A51" alt="DaVinci Resolve" width="48" height="48" />
+</p>
 > *Code. Build. Learn. Repeat.*
 
 </div>
